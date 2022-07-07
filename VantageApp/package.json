@@ -10,7 +10,7 @@
     "@types/node": "^8.0.14"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ws": "^6.2.1"
   }
 }
